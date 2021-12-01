@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="1668ec3b-ac3e-40bd-9580-3f37dc1e8f69" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/djangoblog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/admin.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/blog/apps.py" afterDir="false" />
